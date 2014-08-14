@@ -1,1 +1,1 @@
-Git is a distributed version control system on dev1.
+Git is distributed version control system on dev1.
